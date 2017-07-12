@@ -1,4 +1,4 @@
-# 20150514-Alexa_100k
+﻿# 20150514-Alexa_100k
 # retrieved from http://s3.amazonaws.com/alexa-static/top-1m.csv.zip
 http://google.com
 http://facebook.com

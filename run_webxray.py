@@ -21,6 +21,7 @@
 
 # before anything test we are on right version of python!
 import sys
+
 if sys.version_info[0] < 3:
 	print('Python 3.4 or above is required for webXray to function; please check your installation.')
 	exit()
